@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Aditya Pudasaini 👋</h1>
 
 <p align="center">
-  <b>Software Developer</b> · Computing Undergraduate (4th Semester)<br/>
+  <b>Software Developer</b> · Computing Undergraduate (5th Semester)<br/>
   Building real-world projects and strengthening problem-solving skills.
 </p>
 
 <p align="center">
   <a href="https://github.com/AdityaPudasaini"><img src="https://img.shields.io/badge/GitHub-AdityaPudasaini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:workingaditya00@gmail.com"><img src="https://img.shields.io/badge/Email-workingaditya00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=AdityaPudasaini&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -14,13 +15,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a computing undergraduate and aspiring software engineer with a strong interest in building practical, well-structured software. My work spans object-oriented desktop applications, full-stack web platforms, and game development.
+I'm a computing undergraduate who enjoys turning ideas into working software. My projects range from full-stack web platforms and data analysis to object-oriented desktop applications and 2D games.
 
-- 🎓 Currently pursuing a degree in Computing (4th semester)
-- 🔨 Working on full-stack projects with **NestJS, Prisma, PostgreSQL and Next.js**
-- 📚 Sharpening problem-solving skills through Java exercises on **Exercism**
-- 🎮 Exploring game development alongside backend and web development
-- 🤝 Open to collaborations, internships, and learning opportunities
+- 🎓 Studying Computing (5th semester)
+- 🏢 Built a production-style **business listing platform for auto services in Nepal** (Next.js, NestJS, Prisma, PostgreSQL, Docker)
+- 📊 Exploring **data analysis** with Python on large real-world datasets
+- 🎮 Developing **2D games** in C++ (SFML), GameMaker and Godot, and practising pixel art for them
+- 📚 Sharpening problem-solving through Java exercises on Exercism
+- 🤝 Open to internships, collaborations and learning opportunities
 
 ---
 
@@ -31,21 +33,26 @@ I'm a computing undergraduate and aspiring software engineer with a strong inter
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Databases**
+**Web, Backend & Databases**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
+**Tools, DevOps & Game Dev**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -53,11 +60,24 @@ I'm a computing undergraduate and aspiring software engineer with a strong inter
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Chess-Game**](https://github.com/AdityaPudasaini/Chess-Game) | A remake of the classic board game focused on core gameplay mechanics and clean object-oriented design, implementing standard chess rules and valid piece movement. | `C++` |
-| [**The-E-spot**](https://github.com/AdityaPudasaini/The-E-spot) | An online marketplace for buying and selling products with live auctions. Users can boost listings, add items to cart, and bid in real time. | `Java` |
-| [**Business-Listing**](https://github.com/AdityaPudasaini/Business-Listing) | A universal business listing theme with a NestJS + Prisma + PostgreSQL API and a Next.js frontend, built during an internship project. | `NestJS` `Prisma` `PostgreSQL` `Next.js` |
-| [**Re-summoned**](https://github.com/AdityaPudasaini/Re-summoned) | A dark fantasy dungeon-crawler where a high school student is trapped in an endless cycle of reincarnation by a fallen god. | `GameMaker Language` |
-| [**Homeo**](https://github.com/yogeshpan1/Homeo) | A home booking website built as a team college project for the Code Management with VCS module. | `HTML` `CSS` |
+| [**Business-Listing**](https://github.com/AdityaPudasaini/Business-Listing) | Business listing platform for auto services in Nepal, with a one-command Docker install, updater, backups and customer documentation. | `Next.js` `NestJS` `Prisma` `PostgreSQL` `Docker` `Caddy` |
+| [**Network-Intrusion-Traffic-Eda**](https://github.com/AdityaPudasaini/Network-Intrusion-Traffic-Eda) | Exploratory data analysis and statistical profiling of 488k+ network traffic records: feature correlations, packet distributions and hypothesis testing. | `Python` `Jupyter` |
+| [**CryptsEdge**](https://github.com/AdityaPudasaini/CryptsEdge) | A 2D dark fantasy side-scroller with 10 dungeon rooms, normal enemies, mini bosses, a final boss, and melee and ranged combat. | `C++` `SFML` |
+| [**Re-summoned**](https://github.com/AdityaPudasaini/Re-summoned) | A dark fantasy dungeon-crawler where a student is trapped in an endless cycle of reincarnation. Fight through the Demon King's castle and uncover the truth. | `GameMaker Language` |
+| [**The-E-spot**](https://github.com/AdityaPudasaini/The-E-spot) | An online marketplace for buying and selling products with live auctions, cart and real-time bidding. | `Java` |
+| [**Chess-Game**](https://github.com/AdityaPudasaini/Chess-Game) | A remake of the classic board game with standard chess rules and clean object-oriented design. | `C++` |
+
+### 🗂️ More Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Text-Based-Dungeon-Crawler](https://github.com/AdityaPudasaini/Text-Based-Dungeon-Crawler) | OOP-based text dungeon crawler with several enemies and a main boss fight. | `C++` |
+| [Gym-Management-System](https://github.com/AdityaPudasaini/Gym-Management-System) | Gym management system covering core requirements plus extra features. | `Java` |
+| [Skin-Care-Product-Sale-System](https://github.com/AdityaPudasaini/Skin-Care-Product-Sale-System) | Console app simulating skincare sales: product listing, stock updates and invoice generation with file-based storage. | `Python` |
+| [Tic-Tac-Toe](https://github.com/AdityaPudasaini/Tic-Tac-Toe) | A replica of the classic game built with core Java concepts. | `Java` |
+| [AARPG-Godot-Learning](https://github.com/AdityaPudasaini/AARPG-Godot-Learning) | Learning Godot while building skills for a 2D action-adventure RPG. | `GDScript` |
+| [Pixel-Art-Practice](https://github.com/AdityaPudasaini/Pixel-Art-Practice) | Pixel art studies and original artwork for game development. | `Pixel Art` |
+| [java](https://github.com/AdityaPudasaini/java) | My Exercism solutions in Java (fork of exercism/java). | `Java` |
 
 ---
 
@@ -78,9 +98,9 @@ I'm a computing undergraduate and aspiring software engineer with a strong inter
 
 <p align="center">
   <a href="https://github.com/AdityaPudasaini"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Add your own links below by removing the comment markers:
+  <a href="mailto:workingaditya00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- Add LinkedIn if you like:
   <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   -->
 </p>
 
